@@ -1,4 +1,4 @@
-# renombrararchivoslote
+# renombrar archivos por lote en Windows
 Renombrar archivos por lote en Windows .bat
 
 Crear un archivo .bat con el siguiente código:
